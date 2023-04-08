@@ -1,2 +1,2 @@
-# edeltsova.github.io
+# eideltsova.github.io
 web-site
